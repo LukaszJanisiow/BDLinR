@@ -1,0 +1,10 @@
+Package: BDLinR
+Title: This package offers a function to store data directly from BDL
+Version: 0.0.0.997
+Authors@R: person("Mateusz", "Pliszka", email = "mateuszpliszka13@gmail.com",
+  role = c("aut", "cre"))
+Description: With this function user can download data directly from BDL directly into their project. We recommend using our complementary Shiny app to see the Variable IDs.
+License: `use_mit_license()`
+Encoding: UTF-8
+RoxygenNote: 7.3.1
+Imports: httr, jsonlite, dplyr, tidyr
